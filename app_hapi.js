@@ -1,3 +1,5 @@
+//*************************************BY USING HAPI JS*********************************//
+
 const setup_db=require("./index")
 const { users,department,bank } = require('./models/persons');
 setup_db()
